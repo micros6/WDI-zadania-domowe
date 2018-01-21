@@ -1,0 +1,16 @@
+zad 1:
+a) plot f(x)=cos(x^2)-2sin(x^3)
+b) derivative x^3-x^2+5x
+c) maximize -x^2+5
+zad 2:
+	zad 1:
+		a) 472 base 8 to base 2
+		b) 153 base 8 to base 2
+		c) 544 base 8 to base 2
+	zad 2:
+		a) 1101001001 base 2 + 1001 base 2
+		b) 5467271 base 8 - 14311 base 8
+zad 3:
+a) notable people born on November 20
+b) 12.05.1942
+c) -- .. -.-. .... .- .-.. .-. --- ... .. -. ... -.- .. (Michal Rosinski)
